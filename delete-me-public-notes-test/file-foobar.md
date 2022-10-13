@@ -1,5 +1,5 @@
 ---
-title: new new new file
+title: file foobar
 ---
 
 asdfasdf
