@@ -3,4 +3,6 @@ jobs:
   redeploy-zachlatta-com:
     runs-on: ubuntu-latest
     steps:
-    - run: curl "$VERCEL_DEPLOY_HOOK"
+    - run: curl "$DEPLOY_HOOK"
+      env:
+        DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
