@@ -3,8 +3,4 @@ jobs:
   redeploy-zachlatta-com:
     runs-on: ubuntu-latest
     steps:
-    - name: curl
-      uses: wei/curl@master
-      with:
-        args: $VERCEL_DEPLOY_HOOK
-
+    - run: curl "$VERCEL_DEPLOY_HOOK"
