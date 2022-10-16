@@ -1,11 +1,9 @@
 ---
 title: README
 created: "2022-10-07T14:03:16+00:00"
-modified: "2022-10-07T13:09:31+00:00"
+modified: "2022-10-16T16:06:27+00:00"
 previousPaths: []
 ---
-# README
-
 This folder is a place to attempt to keep notes as an alternative to using an app like Standard Notes or Simplenote.
 
 A subset of these notes that are public will be synced to `zachlatta/public-notes` on GitHub.
