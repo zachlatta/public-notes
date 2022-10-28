@@ -1,4 +1,6 @@
 ---
+title: README
+modified: "2022-10-16T16:06:27+00:00"
 ---
 This folder is a place to attempt to keep notes as an alternative to using an app like Standard Notes or Simplenote.
 
