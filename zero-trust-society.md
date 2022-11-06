@@ -1,7 +1,7 @@
 ---
 title: Zero Trust Society
 created: "2022-11-06T15:49:54+00:00"
-modified: "2022-11-06T16:10:14+00:00"
+modified: "2022-11-06T16:11:10+00:00"
 previousPaths: []
 ---
  
@@ -14,14 +14,8 @@ When you go online, you can't make those same assumptions. For people, who grew 
 
 The role of government is to solve tragedy of the commons issues: managing shared resources (property, water, etc), building and maintaining shared infrastructure (roads, electrical grid, internet), safety, etc.  I also think a secondary role of the government is to articulate a clear, specific positive vision for the future.
 
-Perhaps trust in the age of the internet is a new type of tragedy of the commons issue that the government should concern itself with.
+Perhaps trust in the age of the internet is a new type of tragedy of the commons issue that the government should concern itself with. Despite a zero trust world feeling "ideologically pure" (of course the systems you design shouldn't trust that people are who they say they are!), it's a lot of work to design every system assuming zero trust. Identity fraud alone is probably what 10% of all labor in the software field goes toward preventing.
 
-How can we turn discourse back into a medium trust space?
+Then there's also the transition cost. For much of the population today, they aren't deeply familiar with zero trust spaces - and perhaps that's a transition that's too difficult.
 
-When we think about the role of governments,
-
-Perhaps one of the role of governments is to increase the level of trust within their borders. There probably is a framing of trust as a tragedy of the commons problem.
-
-Despite a zero trust world feeling "ideologically pure" (of course the systems you design shouldn't trust that people are who they say they are!), it's a lot of work to design every system assuming zero trust. Identity fraud alone is probably what 10% of all labor in the software field goes toward preventing.
-
-And what does culture look like in the age of zero trust? That transition might be too hard for people to bear.
+How can we turn culture back into a medium trust space?
