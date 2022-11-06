@@ -1,7 +1,7 @@
 ---
 title: Zero Trust Society
 created: "2022-11-06T15:49:54+00:00"
-modified: "2022-11-06T16:09:06+00:00"
+modified: "2022-11-06T16:10:14+00:00"
 previousPaths: []
 ---
  
@@ -12,9 +12,11 @@ When you go to the local coffee shop and chat with people, you can have basic as
 
 When you go online, you can't make those same assumptions. For people, who grew up on the internet and have spent a significant percentage of their life online - that's normal, that makes sense, and that's the default. It'd be weird any other way. Growing up, I remember being shocked when I realized that paper checks had the underlying account numbers on them. In the age of the internet, that violates the basic practices of security 101, but that design decision probably made sense in the medium trust world of the 1950s when paper checks were invented. Similarly, there are probably analogies to when a lot of 20th century companies were starting to come online, and you'd read these stories about how people were able to socially engineer their way into someone else's cell phone through working the customer support line - that was probably possible because the company systems were designed around the assumption of a medium trust environment.
 
-The role of government is to solve tragedy of the commons issues: managing shared resources (property, water, etc), building and maintaining shared infrastructure (roads, electrical grid, internet), etc.  I also think a secondary role of the government that isn't talked about as often is to articulate a clear, specific positive vision for the future we can all get on board with.
+The role of government is to solve tragedy of the commons issues: managing shared resources (property, water, etc), building and maintaining shared infrastructure (roads, electrical grid, internet), safety, etc.  I also think a secondary role of the government is to articulate a clear, specific positive vision for the future.
 
-Perhaps trust in the age of the internet is a new type of tragedy of the commons issue that the government should concern itself with. 
+Perhaps trust in the age of the internet is a new type of tragedy of the commons issue that the government should concern itself with.
+
+How can we turn discourse back into a medium trust space?
 
 When we think about the role of governments,
 
