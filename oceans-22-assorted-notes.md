@@ -1,7 +1,7 @@
 ---
 title: Oceans 22 Assorted Notes
 created: "2022-10-25T06:04:21+00:00"
-modified: "2022-10-25T02:11:24+00:00"
+modified: "2022-11-16T16:44:47+00:00"
 previousPaths: []
 ---
  
@@ -19,10 +19,10 @@ When we disagree with other countries, is it because our modeling today is not g
 Naive: We actually do benefit from diplomacy around issues like the ocean and protecting shared resources. Maybe the problem is:
 
 1. Agreeing on the end state if we don't collaborate
-2. Agree on steps for all parties to take and agree these steps will actually work
-Enforcement - have real, impartial, technology-enabled means to enforce compliance (ex. satellite images to see illegal fishing)
-3. Justice - Impartial body to enforce real consequences of noncompliance. What does real consequences look like in a body like CCAMLAR?
-4. Celebrate wins
+2. Agree on steps for all parties to take and agree these steps will actually work.
+	   Enforcement - have real, impartial, technology-enabled means to enforce compliance (ex. satellite images to see illegal fishing)
+1. Justice - Impartial body to enforce real consequences of noncompliance. What does real consequences look like in a body like CCAMLAR?
+2. Celebrate wins
 
 Are nation states the right fundamental unit in the 21st century?
 
