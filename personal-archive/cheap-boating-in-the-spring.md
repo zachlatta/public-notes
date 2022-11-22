@@ -1,4 +1,6 @@
 ---
+previousPaths:
+  - cheap-boating-in-the-spring.md
 ---
 
 
