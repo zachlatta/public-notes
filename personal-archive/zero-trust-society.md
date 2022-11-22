@@ -1,6 +1,5 @@
 ---
 title: Zero Trust Society
-created: "2022-11-06T15:49:54+00:00"
 ---
  
 
