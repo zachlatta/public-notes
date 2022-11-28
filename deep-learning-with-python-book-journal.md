@@ -1,7 +1,7 @@
 ---
 title: Deep Learning with Python (Book) Journal
 created: "2022-11-28T04:32:51+00:00"
-modified: "2022-11-28T04:35:34+00:00"
+modified: "2022-11-28T04:45:44+00:00"
 previousPaths: []
 ---
  
@@ -17,3 +17,5 @@ For the MNIST data we are working with, I don't understand how the images are tu
 I'm on 2.3.2 Broadcasting and am just going to read over this and not mess with the code. Confused. Want to move on.
 
 I hate how the book is like: "don't worry, we have simplified all the hard math stuff for beginners so you can understand it". And I don't understand it.
+
+All the NumPy syntax is confusing to me, because I've never used NumPy before
