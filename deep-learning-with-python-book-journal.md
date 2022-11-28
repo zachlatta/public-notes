@@ -18,4 +18,4 @@ I'm on 2.3.2 Broadcasting and am just going to read over this and not mess with 
 
 I hate how the book is like: "don't worry, we have simplified all the hard math stuff for beginners so you can understand it". And I don't understand it.
 
-All the NumPy syntax is confusing to me, because I've never used NumPy before
+All the NumPy syntax is confusing to me, because I've never used NumPy before. The book seems to kind of assume you know NumPy.
