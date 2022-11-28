@@ -1,7 +1,7 @@
 ---
 title: Deep Learning with Python (Book) Journal
 created: "2022-11-28T04:32:51+00:00"
-modified: "2022-11-28T04:50:36+00:00"
+modified: "2022-11-28T04:51:12+00:00"
 previousPaths: []
 ---
  
@@ -19,3 +19,5 @@ I'm on 2.3.2 Broadcasting and am just going to read over this and not mess with 
 I hate how the book is like: "don't worry, we have simplified all the hard math stuff for beginners so you can understand it". And I don't understand it.
 
 All the NumPy syntax is confusing to me, because I've never used NumPy before. The book seems to kind of assume you know NumPy.
+
+I can't take all these fundamentals without trying to build something specific. I'm going to move on in the book.
