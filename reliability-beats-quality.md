@@ -6,7 +6,7 @@ previousPaths: []
 ---
  
 
-One of the humbling things that has taken me years to learn.
+One of the humbling things that has taken me years to learn: reliability often beats quality.
 
 Let's say someone makes something high quality. And let's say someone will give them $100 for it.
 
