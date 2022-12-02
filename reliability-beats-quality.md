@@ -1,5 +1,5 @@
 ---
-title: Reliability beats quality
+title: Reliability Beats Quality
 created: "2022-12-01T04:21:32+00:00"
 modified: "2022-12-02T01:34:48+00:00"
 previousPaths: []
