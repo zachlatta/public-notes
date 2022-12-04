@@ -1,7 +1,4 @@
 ---
-created: "2022-10-07T14:03:16+00:00"
-modified: "2022-10-16T16:06:27+00:00"
-previousPaths: []
 ---
 This folder is a place to attempt to keep notes as an alternative to using an app like Standard Notes or Simplenote.
 
