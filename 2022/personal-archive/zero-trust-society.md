@@ -1,9 +1,8 @@
 ---
 title: Zero Trust Society
-created: "2022-11-06T15:49:54+00:00"
+created: "2023-01-08T12:30:40+00:00"
 modified: "2022-11-06T16:11:10+00:00"
-previousPaths:
-  - zero-trust-society.md
+previousPaths: []
 ---
  
 
