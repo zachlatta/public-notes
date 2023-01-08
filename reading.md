@@ -1,7 +1,7 @@
 ---
 title: Reading
 created: "2023-01-08T12:30:42+00:00"
-modified: "2023-01-08T12:17:34+00:00"
+modified: "2023-01-08T12:31:36+00:00"
 previousPaths: []
 ---
  
@@ -10,7 +10,7 @@ previousPaths: []
 
 * December
 	* Mistborn - amazing. So good. Amazing world. First Brandon Sanderson book. Amazing more advanced YA style book. I don't understand why the king got to become king. Caleb thank you for recommendation. 5 stars.
-	 * Mistborn Book 2 - Not as good as the first.
+	 * Mistborn Book 2 - Not as good as the first, but I like how it expanded the world and took the series in an unexpected direction.
 
 2023
 
