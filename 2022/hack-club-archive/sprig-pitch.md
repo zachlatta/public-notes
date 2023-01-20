@@ -2,9 +2,6 @@
 title: Sprig Pitch
 created: "2023-01-20T04:37:02+00:00"
 modified: "2022-11-15T19:21:11+00:00"
-previousPaths:
-  - hack-club-archive/sprig-pitch.md
-  - sprig-pitch.md
 ---
  
 
