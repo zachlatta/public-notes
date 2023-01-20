@@ -1,7 +1,4 @@
 ---
-title: Running Thoughts
-created: "2023-01-20T06:13:14+00:00"
-previousPaths: []
 ---
  
 
