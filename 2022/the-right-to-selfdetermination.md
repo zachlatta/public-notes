@@ -1,6 +1,6 @@
 ---
 title: The right to self-determination
-created: "2023-01-20T04:37:02+00:00"
+created: "2023-01-20T06:13:14+00:00"
 modified: "2022-11-24T15:21:07+00:00"
 previousPaths:
   - the-right-to-selfdetermination.md
