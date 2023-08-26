@@ -1,4 +1,8 @@
 ---
+title: Notes on Climate and Ocean
+previousPaths:
+  - notes-on-climate-and-ocean.md
+  - personal-archive/videos-on-climate-and-ocean.md
 ---
  
 
