@@ -1,4 +1,10 @@
 ---
+title: Zero Trust Society
+created: "2023-08-28T04:02:20+00:00"
+modified: "2022-11-06T16:11:10+00:00"
+previousPaths:
+  - personal-archive/zero-trust-society.md
+  - zero-trust-society.md
 ---
  
 
