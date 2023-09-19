@@ -1,4 +1,7 @@
 ---
+title: Untitled - 2
+previousPaths:
+  - untitled-2.md
 ---
 Andy Hertzfield - folklore.org
 Bill Ackinson
