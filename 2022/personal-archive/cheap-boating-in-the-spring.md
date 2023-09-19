@@ -4,6 +4,7 @@ created: "2023-09-10T17:27:24+00:00"
 modified: "2022-11-15T17:19:12+00:00"
 previousPaths:
   - cheap-boating-in-the-spring.md
+  - personal-archive/cheap-boating-in-the-spring.md
 ---
 
 
