@@ -1,8 +1,6 @@
 ---
 title: A Terrible Accident (by ChatGPT)
-previousPaths:
-  - a-terrible-accident-by-chatgpt.md
-  - personal-archive/a-terrible-accident-by-chatgpt.md
+created: "2023-09-19T09:51:30+00:00"
 ---
  
 
