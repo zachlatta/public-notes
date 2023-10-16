@@ -1,4 +1,8 @@
 ---
+title: Cars hurt young people the most
+previousPaths:
+  - cars-hurt-young-people-the-most.md
+  - personal-archive/cars-hurt-young-people-the-most.md
 ---
  
 
