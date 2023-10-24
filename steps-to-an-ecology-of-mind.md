@@ -1,5 +1,4 @@
 ---
-title: Steps to an Ecology of Mind
 ---
  
 
