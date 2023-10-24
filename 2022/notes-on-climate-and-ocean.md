@@ -1,14 +1,14 @@
 ---
-title: Videos on Climate and Ocean
+title: Notes on Climate and Ocean
 created: "2023-10-06T12:44:11+00:00"
-modified: "2022-10-22T02:09:27+00:00"
+modified: "2022-10-14T23:33:20+00:00"
 previousPaths:
-  - 2022/notes-on-climate-and-ocean.md
   - notes-on-climate-and-ocean.md
+  - personal-archive/videos-on-climate-and-ocean.md
 ---
  
 
-From Ocean 22 suggested videos to watch:
+To look at:
 
 - https://www.youtube.com/watch?v=5gjgxS8mHJ0
 - https://www.youtube.com/watch?v=azFbn548Tfk
