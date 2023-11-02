@@ -1,5 +1,4 @@
 ---
-title: Reading
 previousPaths: []
 ---
  
