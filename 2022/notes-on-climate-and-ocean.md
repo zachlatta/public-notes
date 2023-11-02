@@ -1,8 +1,4 @@
 ---
-created: "2023-10-24T21:46:03+00:00"
-previousPaths:
-  - notes-on-climate-and-ocean.md
-  - personal-archive/videos-on-climate-and-ocean.md
 ---
  
 
