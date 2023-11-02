@@ -1,4 +1,8 @@
 ---
+title: Steps to an Ecology of Mind
+modified: "2022-10-31T13:12:17+00:00"
+previousPaths:
+  - steps-to-an-ecology-of-mind.md
 ---
  
 
