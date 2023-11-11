@@ -1,5 +1,6 @@
 ---
-title: Zero Trust Society
+previousPaths:
+  - zero-trust-society.md
 ---
  
 
