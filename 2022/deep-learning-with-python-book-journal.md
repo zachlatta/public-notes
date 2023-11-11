@@ -1,6 +1,4 @@
 ---
-previousPaths:
-  - deep-learning-with-python-book-journal.md
 ---
  
 
