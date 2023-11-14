@@ -1,9 +1,4 @@
 ---
-title: Cars hurt young people the most
-created: "2023-10-24T21:46:03+00:00"
-previousPaths:
-  - cars-hurt-young-people-the-most.md
-  - personal-archive/cars-hurt-young-people-the-most.md
 ---
  
 
