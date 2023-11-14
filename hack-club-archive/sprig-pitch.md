@@ -1,4 +1,7 @@
 ---
+title: Sprig Pitch
+previousPaths:
+  - sprig-pitch.md
 ---
  
 
