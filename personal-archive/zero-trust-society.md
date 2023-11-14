@@ -1,5 +1,7 @@
 ---
-created: "2023-11-11T15:09:58+00:00"
+title: Zero Trust Society
+previousPaths:
+  - zero-trust-society.md
 ---
  
 
