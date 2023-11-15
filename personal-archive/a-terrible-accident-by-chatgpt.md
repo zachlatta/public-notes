@@ -1,4 +1,6 @@
 ---
+previousPaths:
+  - a-terrible-accident-by-chatgpt.md
 ---
  
 
