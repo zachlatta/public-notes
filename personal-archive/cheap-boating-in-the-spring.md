@@ -1,5 +1,4 @@
 ---
-title: Cheap Boating in the Spring
 created: "2023-11-15T19:26:43+00:00"
 modified: "2022-11-15T17:19:12+00:00"
 previousPaths:
