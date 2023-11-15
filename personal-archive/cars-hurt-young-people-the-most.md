@@ -1,6 +1,4 @@
 ---
-title: Cars hurt young people the most
-modified: "2022-12-09T15:06:28+00:00"
 ---
  
 

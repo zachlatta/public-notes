@@ -1,7 +1,6 @@
 ---
-title: Steps to an Ecology of Mind
+created: "2023-11-15T21:07:10+00:00"
 modified: "2022-10-31T13:12:17+00:00"
-previousPaths: []
 ---
  
 
