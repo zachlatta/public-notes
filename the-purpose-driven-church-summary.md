@@ -1,6 +1,7 @@
 ---
 title: The Purpose Driven Church Summary
-previousPaths: []
+created: "2023-11-15T16:23:44+00:00"
+modified: "2022-12-01T21:02:06+00:00"
 ---
  
 
