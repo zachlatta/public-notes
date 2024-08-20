@@ -1,7 +1,4 @@
 ---
-title: The right to self-determination
-created: "2023-11-15T21:07:10+00:00"
-previousPaths: []
 ---
  
 
