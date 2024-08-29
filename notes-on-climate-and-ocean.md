@@ -1,6 +1,4 @@
 ---
-previousPaths:
-  - personal-archive/videos-on-climate-and-ocean.md
 ---
  
 
