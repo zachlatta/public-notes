@@ -1,5 +1,4 @@
 ---
-title: A Terrible Accident (by ChatGPT)
 created: "2024-08-20T15:02:02+00:00"
 modified: "2022-12-07T00:30:35+00:00"
 previousPaths:
