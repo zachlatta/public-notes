@@ -1,8 +1,4 @@
 ---
-title: Hack Club is Hiring
-created: "2023-11-15T21:07:10+00:00"
-previousPaths:
-  - hack-club-is-hiring.md
 ---
  
 

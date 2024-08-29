@@ -1,6 +1,4 @@
 ---
-title: Sprig Pitch
-created: "2024-08-20T15:02:02+00:00"
 ---
  
 
