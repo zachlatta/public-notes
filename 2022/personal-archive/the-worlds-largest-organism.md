@@ -1,5 +1,4 @@
 ---
-title: The World's Largest Organism
 created: "2024-08-20T15:02:02+00:00"
 modified: "2022-11-03T11:52:47+00:00"
 previousPaths:
