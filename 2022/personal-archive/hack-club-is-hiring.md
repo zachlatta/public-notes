@@ -4,6 +4,7 @@ created: "2024-08-29T22:47:21+00:00"
 modified: "2022-10-22T02:06:14+00:00"
 previousPaths:
   - hack-club-is-hiring.md
+  - personal-archive/hack-club-is-hiring.md
 ---
  
 
