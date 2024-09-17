@@ -1,7 +1,4 @@
 ---
-title: The right to self-determination
-previousPaths:
-  - the-right-to-selfdetermination.md
 ---
  
 
