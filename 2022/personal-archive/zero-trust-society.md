@@ -1,7 +1,4 @@
 ---
-previousPaths:
-  - personal-archive/zero-trust-society.md
-  - zero-trust-society.md
 ---
  
 
