@@ -1,9 +1,4 @@
 ---
-created: "2024-09-08T09:12:37+00:00"
-modified: "2022-10-22T02:06:14+00:00"
-previousPaths:
-  - hack-club-is-hiring.md
-  - personal-archive/hack-club-is-hiring.md
 ---
  
 

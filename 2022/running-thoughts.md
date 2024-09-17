@@ -1,6 +1,5 @@
 ---
 title: Running Thoughts
-previousPaths: []
 ---
  
 

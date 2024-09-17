@@ -1,6 +1,4 @@
 ---
-title: Notes on Climate and Ocean
-created: "2024-08-29T23:19:21+00:00"
 ---
  
 
