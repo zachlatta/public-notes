@@ -1,7 +1,4 @@
 ---
-title: Oceans 22 Assorted Notes
-previousPaths:
-  - oceans-22-assorted-notes.md
 ---
  
 
