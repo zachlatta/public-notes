@@ -1,4 +1,6 @@
 ---
+previousPaths:
+  - oceans-22-assorted-notes.md
 ---
  
 
