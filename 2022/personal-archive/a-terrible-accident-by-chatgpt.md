@@ -1,6 +1,5 @@
 ---
 title: A Terrible Accident (by ChatGPT)
-modified: "2022-12-07T00:30:35+00:00"
 ---
  
 
