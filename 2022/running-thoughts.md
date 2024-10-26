@@ -1,6 +1,5 @@
 ---
 title: Running Thoughts
-created: "2024-10-16T19:35:36+00:00"
 modified: "2022-12-22T16:48:20+00:00"
 previousPaths: []
 ---
