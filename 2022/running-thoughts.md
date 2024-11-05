@@ -1,6 +1,4 @@
 ---
-title: Running Thoughts
-created: "2024-10-26T13:53:15+00:00"
 ---
  
 
