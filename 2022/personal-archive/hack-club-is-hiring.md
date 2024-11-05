@@ -1,8 +1,5 @@
 ---
-title: Hack Club is Hiring
-previousPaths:
-  - hack-club-is-hiring.md
-  - personal-archive/hack-club-is-hiring.md
+modified: "2022-10-22T02:06:14+00:00"
 ---
  
 
