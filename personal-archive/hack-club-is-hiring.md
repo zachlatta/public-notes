@@ -1,6 +1,4 @@
 ---
-previousPaths:
-  - hack-club-is-hiring.md
 ---
  
 
