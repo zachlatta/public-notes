@@ -1,7 +1,4 @@
 ---
-title: Steps to an Ecology of Mind
-previousPaths:
-  - steps-to-an-ecology-of-mind.md
 ---
  
 

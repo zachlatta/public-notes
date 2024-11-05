@@ -1,6 +1,4 @@
 ---
-title: The right to self-determination
-created: "2024-09-27T10:18:13+00:00"
 ---
  
 
