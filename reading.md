@@ -1,6 +1,4 @@
 ---
-title: Reading
-previousPaths: []
 ---
  
 
