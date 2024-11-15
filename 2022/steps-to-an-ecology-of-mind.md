@@ -1,4 +1,6 @@
 ---
+previousPaths:
+  - steps-to-an-ecology-of-mind.md
 ---
  
 
