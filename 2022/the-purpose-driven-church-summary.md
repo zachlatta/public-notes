@@ -1,7 +1,4 @@
 ---
-title: The Purpose Driven Church Summary
-previousPaths:
-  - the-purpose-driven-church-summary.md
 ---
  
 
