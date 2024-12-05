@@ -1,7 +1,4 @@
 ---
-title: Home Inspiration
-created: "2024-11-25T19:03:29+00:00"
-previousPaths: []
 ---
  
 

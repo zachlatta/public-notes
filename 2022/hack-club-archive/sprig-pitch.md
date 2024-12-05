@@ -1,4 +1,5 @@
 ---
+title: Sprig Pitch
 previousPaths:
   - hack-club-archive/sprig-pitch.md
   - sprig-pitch.md
