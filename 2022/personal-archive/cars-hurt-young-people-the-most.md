@@ -1,7 +1,4 @@
 ---
-previousPaths:
-  - cars-hurt-young-people-the-most.md
-  - personal-archive/cars-hurt-young-people-the-most.md
 ---
  
 
