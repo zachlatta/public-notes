@@ -1,4 +1,7 @@
 ---
+created: "2024-11-15T22:09:05+00:00"
+previousPaths:
+  - the-purpose-driven-church-summary.md
 ---
  
 
