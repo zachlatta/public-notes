@@ -1,7 +1,5 @@
 ---
-previousPaths:
-  - personal-archive/zero-trust-society.md
-  - zero-trust-society.md
+created: "2024-12-05T18:27:27+00:00"
 ---
  
 
