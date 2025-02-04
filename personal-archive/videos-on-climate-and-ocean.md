@@ -1,7 +1,4 @@
 ---
-previousPaths:
-  - 2022/notes-on-climate-and-ocean.md
-  - notes-on-climate-and-ocean.md
 ---
  
 
