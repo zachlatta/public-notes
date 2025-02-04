@@ -1,5 +1,4 @@
 ---
-title: Cars hurt young people the most
 created: "2025-01-25T08:59:46+00:00"
 modified: "2022-12-09T15:06:28+00:00"
 previousPaths:
