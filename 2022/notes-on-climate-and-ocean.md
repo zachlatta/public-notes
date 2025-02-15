@@ -1,9 +1,4 @@
 ---
-title: Notes on Climate and Ocean
-previousPaths:
-  - 2022/personal-archive/videos-on-climate-and-ocean.md
-  - notes-on-climate-and-ocean.md
-  - personal-archive/videos-on-climate-and-ocean.md
 ---
  
 
