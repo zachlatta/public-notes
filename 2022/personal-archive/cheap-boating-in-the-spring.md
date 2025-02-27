@@ -1,9 +1,4 @@
 ---
-title: Cheap Boating in the Spring
-created: "2025-02-15T04:55:36+00:00"
-previousPaths:
-  - cheap-boating-in-the-spring.md
-  - personal-archive/cheap-boating-in-the-spring.md
 ---
 
 
