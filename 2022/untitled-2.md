@@ -1,6 +1,5 @@
 ---
 title: Untitled - 2
-created: "2025-03-10T06:14:13+00:00"
 previousPaths:
   - untitled-2.md
 ---
