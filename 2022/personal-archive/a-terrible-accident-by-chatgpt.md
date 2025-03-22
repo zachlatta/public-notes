@@ -1,8 +1,4 @@
 ---
-title: A Terrible Accident (by ChatGPT)
-previousPaths:
-  - a-terrible-accident-by-chatgpt.md
-  - personal-archive/a-terrible-accident-by-chatgpt.md
 ---
  
 
