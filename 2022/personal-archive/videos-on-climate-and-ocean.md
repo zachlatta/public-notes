@@ -1,4 +1,10 @@
 ---
+title: Videos on Climate and Ocean
+created: "2025-03-22T19:16:32+00:00"
+previousPaths:
+  - 2022/notes-on-climate-and-ocean.md
+  - notes-on-climate-and-ocean.md
+  - personal-archive/videos-on-climate-and-ocean.md
 ---
  
 
