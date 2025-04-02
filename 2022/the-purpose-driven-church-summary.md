@@ -1,6 +1,4 @@
 ---
-title: The Purpose Driven Church Summary
-created: "2025-01-25T09:22:09+00:00"
 ---
  
 
