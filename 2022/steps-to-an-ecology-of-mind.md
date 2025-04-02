@@ -1,8 +1,4 @@
 ---
-title: Steps to an Ecology of Mind
-created: "2025-02-15T04:55:36+00:00"
-previousPaths:
-  - steps-to-an-ecology-of-mind.md
 ---
  
 
