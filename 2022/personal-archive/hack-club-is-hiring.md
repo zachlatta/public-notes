@@ -1,7 +1,4 @@
 ---
-title: Hack Club is Hiring
-created: "2025-04-02T11:02:14+00:00"
-modified: "2022-10-22T02:06:14+00:00"
 ---
  
 
