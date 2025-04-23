@@ -1,7 +1,4 @@
 ---
-previousPaths:
-  - cheap-boating-in-the-spring.md
-  - personal-archive/cheap-boating-in-the-spring.md
 ---
 
 
