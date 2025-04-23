@@ -1,4 +1,6 @@
 ---
+previousPaths:
+  - sprig-pitch.md
 ---
  
 
