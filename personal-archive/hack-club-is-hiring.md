@@ -1,6 +1,6 @@
 ---
 title: Hack Club is Hiring
-created: "2025-04-23T22:21:55+00:00"
+created: "2025-05-04T18:22:04+00:00"
 modified: "2022-10-22T02:06:14+00:00"
 previousPaths:
   - hack-club-is-hiring.md
