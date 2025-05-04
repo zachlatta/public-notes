@@ -1,5 +1,4 @@
 ---
-title: Cars hurt young people the most
 ---
  
 

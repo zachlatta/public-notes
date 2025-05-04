@@ -1,7 +1,4 @@
 ---
-created: "2025-04-23T22:21:55+00:00"
-previousPaths:
-  - reliability-beats-quality.md
 ---
  
 
