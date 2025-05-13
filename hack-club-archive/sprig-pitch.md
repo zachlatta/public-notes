@@ -1,5 +1,4 @@
 ---
-title: Sprig Pitch
 created: "2025-05-04T18:17:38+00:00"
 modified: "2022-11-15T19:21:11+00:00"
 previousPaths:
