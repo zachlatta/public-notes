@@ -1,6 +1,4 @@
 ---
-title: Home Inspiration
-created: "2025-05-04T18:22:04+00:00"
 ---
  
 
