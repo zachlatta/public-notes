@@ -1,4 +1,6 @@
 ---
+previousPaths:
+  - cars-hurt-young-people-the-most.md
 ---
  
 
