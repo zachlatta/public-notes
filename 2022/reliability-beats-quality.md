@@ -1,6 +1,4 @@
 ---
-previousPaths:
-  - reliability-beats-quality.md
 ---
  
 
