@@ -1,6 +1,4 @@
 ---
-created: "2025-05-21T17:03:51+00:00"
-modified: "2022-10-03T00:26:56+00:00"
 previousPaths:
   - untitled-2.md
 ---
