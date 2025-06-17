@@ -1,5 +1,7 @@
 ---
-modified: "2022-12-22T16:48:20+00:00"
+title: Running Thoughts
+created: "2025-05-30T04:18:26+00:00"
+previousPaths: []
 ---
  
 
