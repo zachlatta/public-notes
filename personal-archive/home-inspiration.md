@@ -1,6 +1,6 @@
 ---
 title: Home Inspiration
-created: "2025-06-17T19:11:56+00:00"
+created: "2025-06-26T08:33:23+00:00"
 modified: "2022-11-04T18:11:11+00:00"
 previousPaths: []
 ---
