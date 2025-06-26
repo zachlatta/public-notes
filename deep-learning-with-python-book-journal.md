@@ -1,4 +1,5 @@
 ---
+title: Deep Learning with Python (Book) Journal
 ---
  
 

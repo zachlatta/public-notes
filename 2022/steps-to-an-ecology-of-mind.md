@@ -1,7 +1,4 @@
 ---
-created: "2025-06-17T19:11:56+00:00"
-previousPaths:
-  - steps-to-an-ecology-of-mind.md
 ---
  
 
