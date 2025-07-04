@@ -1,4 +1,5 @@
 ---
+created: "2025-06-26T08:33:23+00:00"
 ---
 This folder is a place to attempt to keep notes as an alternative to using an app like Standard Notes or Simplenote.
 
