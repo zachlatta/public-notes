@@ -1,7 +1,4 @@
 ---
-title: Reading
-created: "2025-07-05T00:20:52+00:00"
-previousPaths: []
 ---
  
 
