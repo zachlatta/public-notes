@@ -1,5 +1,4 @@
 ---
-title: Home Inspiration
 created: "2025-07-05T02:07:16+00:00"
 modified: "2022-11-04T18:11:11+00:00"
 previousPaths: []
