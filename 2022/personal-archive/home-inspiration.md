@@ -1,4 +1,6 @@
 ---
+previousPaths:
+  - personal-archive/home-inspiration.md
 ---
  
 
