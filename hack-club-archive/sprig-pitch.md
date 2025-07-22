@@ -1,7 +1,4 @@
 ---
-title: Sprig Pitch
-created: "2025-07-05T01:21:35+00:00"
-modified: "2022-11-15T19:21:11+00:00"
 previousPaths:
   - sprig-pitch.md
 ---
