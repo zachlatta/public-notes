@@ -1,4 +1,8 @@
 ---
+title: The right to self-determination
+created: "2025-07-22T13:46:53+00:00"
+modified: "2022-11-24T15:21:07+00:00"
+previousPaths: []
 ---
  
 

@@ -1,4 +1,6 @@
 ---
+previousPaths:
+  - the-right-to-selfdetermination.md
 ---
  
 
