@@ -1,6 +1,6 @@
 ---
 title: Home Inspiration
-created: "2025-07-22T13:46:53+00:00"
+created: "2025-07-31T08:33:11+00:00"
 modified: "2022-11-04T18:11:11+00:00"
 previousPaths:
   - personal-archive/home-inspiration.md
