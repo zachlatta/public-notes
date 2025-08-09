@@ -1,8 +1,9 @@
 ---
 title: Deep Learning with Python (Book) Journal
-created: "2025-08-09T05:03:19+00:00"
+created: "2025-07-22T12:30:09+00:00"
 modified: "2022-11-28T04:51:12+00:00"
-previousPaths: []
+previousPaths:
+  - deep-learning-with-python-book-journal.md
 ---
  
 
