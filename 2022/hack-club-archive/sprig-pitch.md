@@ -1,8 +1,4 @@
 ---
-created: "2025-07-22T13:46:53+00:00"
-previousPaths:
-  - hack-club-archive/sprig-pitch.md
-  - sprig-pitch.md
 ---
  
 
