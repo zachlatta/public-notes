@@ -1,7 +1,4 @@
 ---
-title: Reliability Beats Quality
-previousPaths:
-  - reliability-beats-quality.md
 ---
  
 

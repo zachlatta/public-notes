@@ -1,10 +1,5 @@
 ---
-title: A Terrible Accident (by ChatGPT)
 created: "2025-07-31T08:33:11+00:00"
-modified: "2022-12-07T00:30:35+00:00"
-previousPaths:
-  - a-terrible-accident-by-chatgpt.md
-  - personal-archive/a-terrible-accident-by-chatgpt.md
 ---
  
 
