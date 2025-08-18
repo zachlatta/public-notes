@@ -1,7 +1,4 @@
 ---
-title: Home Inspiration
-previousPaths:
-  - personal-archive/home-inspiration.md
 ---
  
 
