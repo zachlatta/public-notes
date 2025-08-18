@@ -1,4 +1,6 @@
 ---
+previousPaths:
+  - the-purpose-driven-church-summary.md
 ---
  
 
