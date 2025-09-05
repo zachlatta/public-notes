@@ -1,6 +1,4 @@
 ---
-title: A Terrible Accident (by ChatGPT)
-created: "2025-08-27T03:50:38+00:00"
 ---
  
 
