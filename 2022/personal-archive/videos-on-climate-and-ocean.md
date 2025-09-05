@@ -1,6 +1,6 @@
 ---
 title: Videos on Climate and Ocean
-created: "2025-08-27T03:50:38+00:00"
+created: "2025-09-05T03:47:41+00:00"
 modified: "2022-10-22T02:09:27+00:00"
 previousPaths:
   - 2022/notes-on-climate-and-ocean.md
