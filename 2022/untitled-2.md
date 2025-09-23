@@ -1,5 +1,8 @@
 ---
 title: Untitled - 2
+created: "2025-09-14T04:53:44+00:00"
+previousPaths:
+  - untitled-2.md
 ---
 Andy Hertzfield - folklore.org
 Bill Ackinson
