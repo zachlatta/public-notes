@@ -1,9 +1,5 @@
 ---
-title: Sprig Pitch
 created: "2025-09-05T03:47:41+00:00"
-previousPaths:
-  - hack-club-archive/sprig-pitch.md
-  - sprig-pitch.md
 ---
  
 
