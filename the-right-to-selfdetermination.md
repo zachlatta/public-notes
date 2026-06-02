@@ -1,5 +1,4 @@
 ---
-title: The right to self-determination
 ---
  
 
