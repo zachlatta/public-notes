@@ -1,5 +1,4 @@
 ---
-title: The Purpose Driven Church Summary
 ---
  
 
