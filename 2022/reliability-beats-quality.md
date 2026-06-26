@@ -1,6 +1,6 @@
 ---
 title: Reliability Beats Quality
-created: "2025-10-02T17:36:11+00:00"
+created: "2026-06-26T15:38:35+00:00"
 modified: "2022-12-05T17:10:03+00:00"
 previousPaths:
   - reliability-beats-quality.md

@@ -1,6 +1,6 @@
 ---
 title: The World's Largest Organism
-created: "2026-06-24T05:57:49+00:00"
+created: "2026-06-26T15:38:35+00:00"
 modified: "2022-11-03T11:52:47+00:00"
 previousPaths:
   - the-worlds-largest-organism.md
