@@ -1,7 +1,4 @@
 ---
-title: README
-created: "2026-06-26T15:38:35+00:00"
-previousPaths: []
 ---
 This folder is a place to attempt to keep notes as an alternative to using an app like Standard Notes or Simplenote.
 

@@ -1,8 +1,4 @@
 ---
-created: "2026-06-26T14:35:54+00:00"
-previousPaths:
-  - 2022/notes-on-climate-and-ocean.md
-  - notes-on-climate-and-ocean.md
 ---
  
 
