@@ -1,7 +1,6 @@
 ---
-modified: "2022-11-24T15:21:07+00:00"
-previousPaths:
-  - the-right-to-selfdetermination.md
+title: The right to self-determination
+created: "2026-06-26T14:35:54+00:00"
 ---
  
 
