@@ -1,6 +1,6 @@
 ---
 title: Notes on Climate and Ocean
-created: "2026-06-26T15:38:35+00:00"
+created: "2026-06-27T19:32:56+00:00"
 modified: "2022-10-14T23:33:20+00:00"
 previousPaths:
   - 2022/personal-archive/videos-on-climate-and-ocean.md
