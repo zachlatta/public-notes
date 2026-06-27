@@ -2,7 +2,7 @@
 ---
  
 
-From Ocean 22 suggested videos to watch:
+To look at:
 
 - https://www.youtube.com/watch?v=5gjgxS8mHJ0
 - https://www.youtube.com/watch?v=azFbn548Tfk
