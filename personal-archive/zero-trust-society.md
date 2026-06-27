@@ -1,6 +1,4 @@
 ---
-previousPaths:
-  - zero-trust-society.md
 ---
  
 

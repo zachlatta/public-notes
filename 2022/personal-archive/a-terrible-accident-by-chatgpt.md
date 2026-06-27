@@ -1,5 +1,4 @@
 ---
-title: A Terrible Accident (by ChatGPT)
 ---
  
 
