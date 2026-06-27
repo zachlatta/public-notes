@@ -1,8 +1,4 @@
 ---
-created: "2026-06-27T06:23:01+00:00"
-previousPaths:
-  - a-terrible-accident-by-chatgpt.md
-  - personal-archive/a-terrible-accident-by-chatgpt.md
 ---
  
 

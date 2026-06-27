@@ -1,5 +1,4 @@
 ---
-title: Zero Trust Society
 ---
  
 

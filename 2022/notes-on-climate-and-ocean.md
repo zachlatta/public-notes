@@ -1,5 +1,4 @@
 ---
-title: Notes on Climate and Ocean
 ---
  
 
