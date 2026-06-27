@@ -1,8 +1,9 @@
 ---
 title: Oceans 22 Assorted Notes
-created: "2026-06-27T06:23:01+00:00"
+created: "2026-06-26T15:38:35+00:00"
 modified: "2022-11-16T16:45:39+00:00"
-previousPaths: []
+previousPaths:
+  - oceans-22-assorted-notes.md
 ---
  
 
