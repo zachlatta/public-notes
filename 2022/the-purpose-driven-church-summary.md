@@ -1,8 +1,4 @@
 ---
-title: The Purpose Driven Church Summary
-created: "2026-06-27T19:32:56+00:00"
-previousPaths:
-  - the-purpose-driven-church-summary.md
 ---
  
 
